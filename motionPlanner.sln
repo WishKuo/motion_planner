@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "motionPlanner", "Assembly-CSharp.csproj", "{824E225F-B126-898B-2FB3-CEB5AED5E5AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "motionPlanner", "Assembly-CSharp-Editor.csproj", "{F708DBEF-1169-AC72-D673-F29A6BE33F0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{824E225F-B126-898B-2FB3-CEB5AED5E5AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{824E225F-B126-898B-2FB3-CEB5AED5E5AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{824E225F-B126-898B-2FB3-CEB5AED5E5AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{824E225F-B126-898B-2FB3-CEB5AED5E5AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F708DBEF-1169-AC72-D673-F29A6BE33F0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F708DBEF-1169-AC72-D673-F29A6BE33F0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F708DBEF-1169-AC72-D673-F29A6BE33F0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F708DBEF-1169-AC72-D673-F29A6BE33F0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
