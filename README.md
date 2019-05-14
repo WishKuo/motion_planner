@@ -1,4 +1,4 @@
-# motion_planner
+# Motion Planner
 
 A simple motion planner created by Unity3D
 
